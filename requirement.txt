@@ -1,0 +1,8 @@
+tkinter 
+Canvas
+matplotlib
+numpy 
+voiceit2
+ImageTk, Image
+pyaudio
+wave
