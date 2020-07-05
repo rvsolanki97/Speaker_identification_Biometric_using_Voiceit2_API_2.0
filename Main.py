@@ -1,4 +1,4 @@
-## this all library i use for this Speaker identification
+## this all library i use for this Speaker identification using voiceit2 API 2.0
 import tkinter as tk
 from tkinter import Canvas
 import matplotlib.pyplot as plt
